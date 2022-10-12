@@ -1,6 +1,15 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+<!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/lgurrin/Whale/branch/main/graph/badge.svg)](https://app.codecov.io/gh/lgurrin/Whale?branch=main)
+
+[![R-CMD-check](https://github.com/lgurrin/Whale/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/lgurrin/Whale/actions/workflows/R-CMD-check.yaml)
+
+<!-- badges: end -->
+
 # Whale
 
 Whale-come! This R package was inspired by
@@ -30,7 +39,7 @@ library(Whale)
 say() 
 #> 
 #>             ------ 
-#>            Whale done! This looks great! 
+#>            What do you call a pod of noisy whales?        An ORCASTRA! 
 #>             ------ 
 #>                \   
 #>                 \  

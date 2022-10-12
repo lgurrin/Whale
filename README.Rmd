@@ -18,6 +18,14 @@ knitr::opts_chunk$set(
 )
 ```
 
+  <!-- badges: start -->
+  
+  [![Codecov test coverage](https://codecov.io/gh/lgurrin/Whale/branch/main/graph/badge.svg)](https://app.codecov.io/gh/lgurrin/Whale?branch=main)
+  
+  [![R-CMD-check](https://github.com/lgurrin/Whale/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/lgurrin/Whale/actions/workflows/R-CMD-check.yaml)
+  
+  <!-- badges: end -->
+  
 # Whale  
 
 Whale-come! This R package was inspired by [cowsay](https://github.com/sckott/cowsay) and [praise](https://github.com/rladies/praise). I hope this package made you smile today! 
