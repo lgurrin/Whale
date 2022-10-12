@@ -6,6 +6,25 @@ navbar:
   bg: primary
   type: light
   structure:
-    left:  [search, intro, reference, tutorials, news, articles]
+    left:  [search, reference, tutorials, news, articles]
     right: [github]
+  components:
+   articles:
+    text: Documents
+    menu:
+    - text: "Vignettes"
+    - text: Intro
+      href: 'articles/In-this-blue.html'
+    - text: Other intro
+      href: 'authors.html'
+    - text: Another intro
+      href: '../doc/Whale.html'
 
+reference:
+- title: Exported functions
+  desc:  Functions for Whale Catchers
+- contents:
+  - say
+- subtitle: Where are whale puns stored
+- contents:
+  - phrases
