@@ -1,0 +1,19 @@
+Package: Whale
+Title: Whale Tales
+Version: 0.0.0.9000
+Authors@R: 
+    person("Lyle", "Gurrin", , "lgurrin@unimelb.edu.au", role = c("aut", "cre"),
+           comment = c(ORCID = "XXXXXX"))
+Description: Whale Tales
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    magrittr
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 3
