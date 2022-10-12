@@ -10,7 +10,7 @@ navbar:
     right: [github]
   components:
    articles:
-    text: Documents
+    text: Documentz
     menu:
     - text: "Vignettes"
     - text: Intro
@@ -22,7 +22,7 @@ navbar:
 
 reference:
 - title: Exported functions
-  desc:  Functions for Whale Catchers
+  desc:  Functions for Whale Chattchers
 - contents:
   - say
 - subtitle: Where are whale puns stored
